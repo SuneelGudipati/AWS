@@ -1,3 +1,4 @@
+![VPC](https://github.com/user-attachments/assets/de21179d-e5e7-4bb1-b309-350835717a24)
 # Understanding AWS Networking Components
 
 ## VPC (Virtual Private Cloud)
