@@ -1,5 +1,6 @@
-![VPC](https://github.com/user-attachments/assets/de21179d-e5e7-4bb1-b309-350835717a24)
 # Understanding AWS Networking Components
+
+![VPC](https://github.com/user-attachments/assets/de21179d-e5e7-4bb1-b309-350835717a24)
 
 ## VPC (Virtual Private Cloud)
 A **Virtual Private Cloud (VPC)** is a logically isolated section of the AWS cloud where users can launch resources in a virtual network. You have complete control over your network configuration, including IP address ranges, subnets, route tables, and network gateways. VPC helps you securely connect your cloud resources and control how they communicate with the internet and other networks.
